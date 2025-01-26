@@ -6,7 +6,7 @@
 
 
 <h3 align="left">About me</h3>
-<p align="left">I am a second-year computer science student at McMaster University, consistently earning a spot on the Dean's Honor List. My passion lies in coding and crafting front-end projects, and I am well-versed in Python, C, Java, Elm, Haskell, HTML, CSS, JavaScript, SQL, and more.
+<p align="left">I am a third computer science student at McMaster University, consistently earning a spot on the Dean's Honor List. My passion lies in coding and crafting front-end projects, and I am well-versed in Python, C, Java, Elm, Haskell, HTML, CSS, JavaScript, SQL, and more.
 
 Beyond my academic pursuits, I find joy in playing table tennis and pool during my leisure time. Actively seeking co-op opportunities for the summer of 2024, I am eager to apply my skills and contribute to innovative projects.
 
